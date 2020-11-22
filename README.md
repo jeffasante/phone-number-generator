@@ -3,7 +3,7 @@ Generates random phone numbers.
 
 
 ## Run Demos
-PS C:\Users\Administrator\portfolio\NPONTU\github.com\Phone_Numbers_Gen> python run.py 100
+PS C:\Users\Administrator\portfolio\github.com\Phone_Numbers_Gen> python run.py 100
 ```
 Done
 __________
